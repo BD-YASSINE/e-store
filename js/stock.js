@@ -272,10 +272,8 @@ function removeRow(button) {
 // -----------------------------Show Details Popup--------------
 // Function to open the details popup and display stock info
 function openDetailspop(stockId) {
-<<<<<<< HEAD:js/stock.js
+
     scrollToTop();
-=======
->>>>>>> 6b1effe035c9c1e88ac4494b822cc83a1b3059a4:stock.js
     console.log("Opening details popup for stock ID:", stockId);
 
     editPop.classList.remove('d-none');
@@ -324,10 +322,7 @@ function openDetailspop(stockId) {
 // -----------------------------DELETE------------------------
 // Function to open the delete popup and handle stock deletion
 function openDeletepop(stockId) {
-<<<<<<< HEAD:js/stock.js
     scrollToTop();
-=======
->>>>>>> 6b1effe035c9c1e88ac4494b822cc83a1b3059a4:stock.js
     deletePop.classList.remove('d-none'); // Show delete popup
     addPop.classList.add('d-none'); // Hide add popup
     editPop.classList.add('d-none'); // Hide edit popup

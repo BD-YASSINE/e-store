@@ -272,10 +272,7 @@ function removeRow(button) {
 
 // -----------------------------Show Details Popup--------------
 function openDetailspop(stockId) {
-<<<<<<< HEAD:js/sold.js
     scrollToTop()
-=======
->>>>>>> 6b1effe035c9c1e88ac4494b822cc83a1b3059a4:sold.js
     editPop.classList.remove('d-none');
     addPop.classList.add('d-none');
     deletePop.classList.add('d-none');
@@ -311,10 +308,8 @@ function openDetailspop(stockId) {
 
 // -----------------------------DELETE------------------------
 function openDeletepop(stockId) {
-<<<<<<< HEAD:js/sold.js
-    scrollToTop()
-=======
->>>>>>> 6b1effe035c9c1e88ac4494b822cc83a1b3059a4:sold.js
+
+    scrollToTop()                              
     deletePop.classList.remove('d-none');
     addPop.classList.add('d-none');
     editPop.classList.add('d-none');
