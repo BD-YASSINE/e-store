@@ -75,7 +75,7 @@ node server.js
 
 ## 👤 Author
 
-**Yassine** – [@BD-YASSINE](https://github.com/BD-YASSINE)
+Made by [**ERROR**](https://github.com/BD-YASSINE)
 
 ---
 
