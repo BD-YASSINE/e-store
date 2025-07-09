@@ -25,7 +25,7 @@ e-store/
 
 ### Frontend
 - HTML5
-- CSS3 / Bootstrap / Tailwind
+- CSS3 / Bootstrap 
 - JavaScript
 
 ### Backend
@@ -44,7 +44,7 @@ git clone https://github.com/BD-YASSINE/e-store.git
 
 ### 2. Clone the Backend
 ```bash
-git clone https://github.com/BD-YASSINE/E-STORE-BACKEND
+git clone https://github.com/BD-YASSINE/e-product-store-backend.git
 ```
 
 ---
