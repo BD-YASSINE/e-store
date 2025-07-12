@@ -41,7 +41,7 @@ git clone https://github.com/BD-YASSINE/e-store.git
 ```bash
 git clone https://github.com/BD-YASSINE/e-product-store-backend.git
 ```
-> ⚠️ Make sure you have **Node.js** and **npm** installed on your system.
+> ⚠️ Make sure you have **Node.js**, **npm** and **mongodb** installed on your system.
 ---
 
 ## 🧪 Run the App
