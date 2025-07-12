@@ -26,7 +26,7 @@ e-store/
 ### Backend
 - Node.js
 - Express.js
-- File System or Database (if applicable)
+- File System or Database 
 
 ---
 
