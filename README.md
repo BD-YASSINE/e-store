@@ -41,7 +41,7 @@ e-store/
 
 > ⚠️ Make sure you have **Node.js**, **npm** and **mongodb** installed on your system.
 
----
+
 ```
 ### 1. Clone the Frontend
 ```bash
