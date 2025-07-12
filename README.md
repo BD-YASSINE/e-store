@@ -6,11 +6,6 @@ It follows a **Frontend–Backend architecture** using **HTML/CSS/JS (frontend)*
 
 ---
 
-## 🚀 Live Demo (optional)
-_Add link here if deployed._
-
----
-
 ## 📁 Project Structure
 
 ```
