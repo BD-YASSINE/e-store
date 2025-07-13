@@ -54,7 +54,7 @@ node server.js
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technologies Used
 
 ### Frontend
 - HTML5
