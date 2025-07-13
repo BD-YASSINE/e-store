@@ -6,6 +6,15 @@ It follows a **Frontend–Backend architecture** using **HTML/CSS/JS (frontend)*
 
 ---
 
+## 📌 Features
+
+- Add / Edit / Delete products
+- Track stock levels
+- Simple and responsive design
+- Organized folder structure
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -13,20 +22,6 @@ e-store/
 ├── frontend/        # Frontend UI (HTML, CSS, JS)
 └── backend/         # Backend (Node.js + Express)
 ```
-
----
-
-## ⚙️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3 / Bootstrap 
-- JavaScript
-
-### Backend
-- Node.js
-- Express.js
-- File System or Database 
 
 ---
 
@@ -59,12 +54,17 @@ node server.js
 
 ---
 
-## 📌 Features
+## ⚙️ Tech Stack
 
-- Add / Edit / Delete products
-- Track stock levels
-- Simple and responsive design
-- Organized folder structure
+### Frontend
+- HTML5
+- CSS3 / Bootstrap 
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- File System or Database 
 
 ---
 
