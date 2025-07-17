@@ -6,8 +6,12 @@ It follows a **Frontend–Backend architecture** using **HTML/CSS/JS (frontend)*
 
 ---
 
-## 🚀 Live Demo (optional)
-_Add link here if deployed._
+## 📌 Features
+
+- Add / Edit / Delete products
+- Track stock levels
+- Simple and responsive design
+- Organized folder structure
 
 ---
 
@@ -18,20 +22,6 @@ e-store/
 ├── frontend/        # Frontend UI (HTML, CSS, JS)
 └── backend/         # Backend (Node.js + Express)
 ```
-
----
-
-## ⚙️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3 / Bootstrap 
-- JavaScript
-
-### Backend
-- Node.js
-- Express.js
-- File System or Database (if applicable)
 
 ---
 
@@ -46,7 +36,7 @@ git clone https://github.com/BD-YASSINE/e-store.git
 ```bash
 git clone https://github.com/BD-YASSINE/e-product-store-backend.git
 ```
-
+> ⚠️ Make sure you have **Node.js**, **npm** and **mongodb** installed on your system.
 ---
 
 ## 🧪 Run the App
@@ -64,12 +54,17 @@ node server.js
 
 ---
 
-## 📌 Features
+## ⚙️ Technologies Used
 
-- Add / Edit / Delete products
-- Track stock levels
-- Simple and responsive design
-- Organized folder structure
+### Frontend
+- HTML5
+- CSS3 / Bootstrap 
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+- File System or Database 
 
 ---
 
